@@ -1,4 +1,4 @@
-# House Price Prediction (Week 1 Assignment)
+# House Price Prediction 
 
 Hey there! This repository contains my project submission for Week 1 of the Data Science Internship. The goal this week was to dig into a housing dataset, figure out what actually drives property values, and build a machine learning model to predict prices.
 
